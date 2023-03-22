@@ -1,4 +1,4 @@
-	<h1 align="center">✨Hi there, it's Atul!✨</h1>
+<h1 align="center">✨Hi there, it's Atul!✨</h1>
 
 ### Here's some stuff about me:
 
