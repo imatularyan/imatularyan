@@ -2,7 +2,7 @@
 
 ### Here's some stuff about me:
 
-- 🔭 Working on React News-web-app
+- 🔭 Working on Video-Streaming-web-app
 - 🛠️ Improving JavaScript and DSA
 - 🌱 Interested on proficient web application
 
