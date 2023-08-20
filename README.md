@@ -2,7 +2,7 @@
 
 ### Here's some stuff about me:
 
-- 🔭 Working on News-web-app
+- 🔭 Working on cash-web-app
 - 🛠️ Improving JavaScript and DSA
 - 🌱 Interested on proficient web application
 
