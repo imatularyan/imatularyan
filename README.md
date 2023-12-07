@@ -2,7 +2,7 @@
 
 ### Here's some stuff about me:
 
-- 🔭 Working on cash-web-app
+- 🔭 Working on react-native applications
 - 🛠️ Improving JavaScript and DSA
 - 🌱 Interested on proficient web application
 
